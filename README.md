@@ -32,7 +32,9 @@ Assegureu-vos que teniu els beneficis d'estudiants activats, els podeu consultar
 
 https://education.github.com/pack
 
-# Repositori privat
+# ASIX 
+
+## Repositori privat
 
 IMPORTANT: Us heu d'afegir al grup d'alumnes (és un Team de Github):
 
@@ -40,12 +42,13 @@ https://github.com/orgs/Desenv-Aplicacions-Multiplataforma/teams/alumnes
 
 De la organització:
 
-https://github.com/Desenv-Aplicacions-Multiplataforma
+https://github.com/AdministracioSistemesInformaticsIXarxes
 
 Tots els grups de la organització es poden consultar a:
 
-https://github.com/orgs/Desenv-Aplicacions-Multiplataforma/teams
+https://github.com/orgs/AdministracioSistemesInformaticsIXarxes/teams
 
 Un cop tingueu usuari de Github creat el repositori amb el qual treballarem durant tot el curs és el següent:
 
-https://github.com/Desenv-Aplicacions-Multiplataforma/2DAM_2022_23
+https://github.com/AdministracioSistemesInformaticsIXarxes/2ASIX_2023_24
+
