@@ -2,7 +2,7 @@
 
 Si encara no l'heu fet, seguiu els passos de:
 
-https://tubeme.acacha.org/DAM_101
+https://tubeme.acacha.org/ASIX_101
 
 
 # Primers passos
