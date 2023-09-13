@@ -4,6 +4,15 @@ Si encara no l'heu fet, seguiu els passos de:
 
 https://tubeme.acacha.org/ASIX_101
 
+IMPORTANT:
+
+- Qualsevol dubte o problema o comentari utilitzeu els comentaris de Youtube. Llegiu els comentaris actuals ja que us indicaran canvis per qüestions de versions o altres tips o millores que no es veueun al vídeo.
+
+Tot seguit teniu uns apunts de coses que surten al vídeo que poden ser diferents en el vostre cas (no es tracta de copiar i pegar sense entendre, sino de mirar d'anar entenent el que feu):
+
+- La wiki acacha.org ja no existeix. trobareu els apunts a https://gist.github.com/acacha/616d458e3e6a715d1b519a015ac4bb7c
+- La versió d'Ubuntu del vostre ordinador pot ser més nova
+- La instal·lació de NodeJs al vídeo es fa manual. Millor si utilitzeu com diu en aquests apunts nvm
 
 # Primers passos
 
